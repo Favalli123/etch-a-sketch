@@ -28,7 +28,6 @@ container.style.gridTemplateRows = `repeat(${newGrid}, 1fr)`;
        cell.addEventListener('mousemove', paint);
 
      
-  
 console.log(cell)
     }
 }
