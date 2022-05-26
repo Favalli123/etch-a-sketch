@@ -22,7 +22,7 @@ container.style.gridTemplateRows = `repeat(${newGrid}, 1fr)`;
     //colour.appendChild(cell)
        
     function paint(){
-        cell.style.background = "RGB 255 255 255"
+        cell.style.background = "#000"
        }
       
        cell.addEventListener('mousemove', paint);
@@ -31,7 +31,7 @@ container.style.gridTemplateRows = `repeat(${newGrid}, 1fr)`;
 console.log(cell)
     }
 }
-     
+    
 }
 
 
