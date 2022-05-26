@@ -1,0 +1,23 @@
+#container{
+    display: grid;
+  margin: auto;
+    border: 1px solid;
+  font-size: 0;
+    width: 960px;
+    height: 960px;
+    border: none; 
+    padding: 0;
+    outline: 2px solid #000;
+    
+}
+
+grid{
+    background-color: white;
+ margin: 0;
+ padding:0;
+ border: none;
+
+display: inline-block;
+
+}
+
